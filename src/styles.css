@@ -97,6 +97,7 @@ body.theme-fog { background: linear-gradient(#3e5151, #decba4); }
     margin: 0 auto;
     gap: 1rem;
     flex:1;
+    margin-bottom: 10px;
 
 }
 .display{
